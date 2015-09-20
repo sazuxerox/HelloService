@@ -1,0 +1,9 @@
+E:\Works\Code\WCF\HelloWindowsClient\HelloWindowsClient\bin\Debug\HelloWindowsClient.exe.config
+E:\Works\Code\WCF\HelloWindowsClient\HelloWindowsClient\bin\Debug\HelloWindowsClient.exe
+E:\Works\Code\WCF\HelloWindowsClient\HelloWindowsClient\bin\Debug\HelloWindowsClient.pdb
+E:\Works\Code\WCF\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.csprojResolveAssemblyReference.cache
+E:\Works\Code\WCF\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.Form1.resources
+E:\Works\Code\WCF\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.Properties.Resources.resources
+E:\Works\Code\WCF\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.csproj.GenerateResource.Cache
+E:\Works\Code\WCF\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.exe
+E:\Works\Code\WCF\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.pdb
