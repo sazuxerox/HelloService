@@ -1,0 +1,8 @@
+E:\Works\Code\WCF\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe.config
+E:\Works\Code\WCF\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe
+E:\Works\Code\WCF\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.pdb
+E:\Works\Code\WCF\HelloService\HelloServiceHost\bin\Debug\HelloService.dll
+E:\Works\Code\WCF\HelloService\HelloServiceHost\bin\Debug\HelloService.pdb
+E:\Works\Code\WCF\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.csprojResolveAssemblyReference.cache
+E:\Works\Code\WCF\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.exe
+E:\Works\Code\WCF\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.pdb
